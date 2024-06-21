@@ -35,17 +35,18 @@ profiles:
   - icon: academicons/orcid
     url: https://orcid.org/
 
-interests (Large Scale Data Analysis and Management):
+interests:
   - (Knowledge) Graph Data Analysis and Management
   - (Knowledge) Graph Embedding
   - Geo-social Network Data Analysis and Management
+  - Big Data Analysis and Processing
   - Research on acceleratig AI systems  
-
+ 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Database (석박사 통합과정)
+    institution: KAIST (Korea Advanced Institute of Science and Technology)
+    date_start: 2013-03 
+    date_end: 2020-01 
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
