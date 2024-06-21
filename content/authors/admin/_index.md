@@ -47,8 +47,6 @@ interests:
     b
 
 
-
-
 education:
   - area: PhD Artificial Intelligence
     institution: Stanford University
