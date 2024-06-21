@@ -33,14 +33,6 @@ profiles:
   - icon: at-symbol
     url: 'mailto:your-email@example.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid
@@ -51,8 +43,11 @@ interests:
   - Computational Linguistics
   - Information Retrieval
   - 대규모 데이터 관리 및 분석(지식 그래프 데이터, 소셜 네트워크 데이터, 인공지능 관련 데이터)
-     - a
-     - b
+    a
+    b
+
+
+
 
 education:
   - area: PhD Artificial Intelligence
