@@ -6,8 +6,8 @@ title: 이천희
 name_pronunciation: Chun-He Lee
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Chun-Hee
+last_name: Lee
 
 # Status emoji
 status:
@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Assistant Professor
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Kyungpook National University
+    url: http://knu.ac.kr/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -50,6 +50,9 @@ interests:
   - Artificial Intelligence
   - Computational Linguistics
   - Information Retrieval
+  - 대규모 데이터 관리 및 분석(지식 그래프 데이터, 소셜 네트워크 데이터, 인공지능 관련 데이터)
+     - a
+     - b
 
 education:
   - area: PhD Artificial Intelligence
