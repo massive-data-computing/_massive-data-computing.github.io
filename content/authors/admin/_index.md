@@ -41,7 +41,7 @@ interests:
   - Research on Acceleratig AI systems  
 
 education:
-  - area: Ph.D., Department of Computer Science (석박사 통합과정)
+  - area: Ph.D. Department of Computer Science (석박사 통합과정)
     institution: KAIST (Korea Advanced Institute of Science and Technology)
     date_start: 2013-03-01 
     date_end: 2020-01-29 
@@ -49,11 +49,7 @@ education:
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     date_start: 2013-03-01
     date_end: 2020-01-29
-   - area: B.S., Division of Computer Science 
-    institution: KAIST
-    date_start: 1999-03-01
-    date_end: 2003-02-21
-    
+
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
