@@ -36,12 +36,10 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - (Knowledge) Graph Data Analysis and Management
-  - (Knowledge) Graph Embedding
-  - Geo-social Network Data Analysis and Management
-  - Big Data Analysis and Processing
-  - Research on acceleratig AI systems  
- 
+  - Large Scale Data Analysis and Management 
+  - knowledge-based Systems
+  - Research on Acceleratig AI systems  
+
 education:
   - area: PhD Database (석박사 통합과정)
     institution: KAIST (Korea Advanced Institute of Science and Technology)
@@ -63,17 +61,11 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: BSc 
+    institution: KAIST
     date_start: 2016-01-01
     date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -174,4 +166,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Chun-Hee Lee is an assistant professor in School of Computer Science and Engineering at Kyungpook National University. His research interests include 1) large scal data analysis and management (knowledge graphs, geo-social networks, simuation data and AI-related data) 2) knowledge-based systems (knowledge presentation and engineering, knowledge graph embedding and knowledge model compression), and 3) Research on accelating AI systems.
