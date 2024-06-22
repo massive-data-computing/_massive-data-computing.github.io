@@ -41,30 +41,18 @@ interests:
   - Research on Acceleratig AI systems  
 
 education:
-  - area: PhD Database (석박사 통합과정)
+  - area: Ph.D., Department of Computer Science (석박사 통합과정)
     institution: KAIST (Korea Advanced Institute of Science and Technology)
     date_start: 2013-03-01 
-    date_end: 2020-01-01 
+    date_end: 2020-01-29 
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc 
+    date_start: 2013-03-01
+    date_end: 2020-01-29
+   - area: B.S., Division of Computer Science 
     institution: KAIST
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 1999-03-01
+    date_end: 2003-02-21
     
 work:
   - position: Director of Cloud Infrastructure
