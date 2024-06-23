@@ -51,14 +51,16 @@ RFID/USN Environments_. Supervised by [Prof Chin-Wan Chung](https://example.com)
     date_start: 2013-03-01
     date_end: 2020-01-29
     
-  - area: B.S., Division of Computer Science 
-    institution: KAIST (Korea Advanced Institute of Science and Technology)
-    date_start: 1999-03-01 
-    date_end: 2003-02-21 
+  - area: BSc Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
-      Dissertation
-    date_start: 2013-03-01
-    date_end: 2020-01-29
+      GPA: 3.4/4.0
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
     
 work:
   - position: Director of Cloud Infrastructure
