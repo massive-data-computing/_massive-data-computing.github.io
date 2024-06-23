@@ -75,6 +75,12 @@ work:
       - Migrated infrastructure to a new data center
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - position: Samsung Advanced Institute of Technology (삼성전자 종합기술원)
+    company_name: Samsung Electronics
+    company_url: 'https://www.sait.samsung.co.kr/'
+    company_logo: ''
+    date_start: 2011-04-01
+    date_end: 2014-04-30
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -152,4 +158,4 @@ awards:
 
 ## About Me
 
-Chun-Hee Lee is an assistant professor in School of Computer Science and Engineering at Kyungpook National University. His research interests include 1) large scal data analysis and management (knowledge graphs, geo-social networks, simuation data and AI-related data) 2) knowledge-based systems (knowledge presentation and engineering, knowledge graph embedding and knowledge model compression), and 3) Research on accelating AI systems.
+Chun-Hee Lee is an assistant professor in School of Computer Science and Engineering at Kyungpook National University. His research interests include 1) large scal data analysis and management (knowledge graphs, geo-social networks, simulation data and AI-related data) 2) knowledge-based systems (knowledge presentation and engineering, knowledge graph embedding and knowledge graph model compression), and 3) Research on accelating AI systems.
