@@ -44,9 +44,9 @@ education:
   - area: B.S., Division of Computer Science 
     institution: KAIST (Korea Advanced Institute of Science and Technology)
     date_start: 1999-03-01
-    date_end: 2003-02-321
+    date_end: 2003-02-21
     summary: |
-      GPA:  
+      GPA: 4.0/4.0
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
