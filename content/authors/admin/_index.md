@@ -41,6 +41,10 @@ interests:
   - Research on Acceleratig AI systems  
 
 education:
+  - area: Ph.D., Department of Computer Science (석박사 통합과정)
+    institution: KAIST (Korea Advanced Institute of Science and Technology)
+    date_start: 2013-03-01 
+    date_end: 2020-01-29 
   - area: B.S., Division of Computer Science 
     institution: KAIST (Korea Advanced Institute of Science and Technology)
     date_start: 1999-03-01
