@@ -45,11 +45,6 @@ education:
     institution: KAIST (Korea Advanced Institute of Science and Technology)
     date_start: 1999-03-01
     date_end: 2003-02-21
-    summary: |
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
     
 work:
   - position: Director of Cloud Infrastructure
