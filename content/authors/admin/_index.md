@@ -75,6 +75,12 @@ work:
       - Migrated infrastructure to a new data center
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - position:  Electronics and Telecommunications Research Institute (한국전자통신연구원)
+    company_name: ETRI
+    company_url: '[https://www.sait.samsung.co.kr/](https://www.etri.re.kr)'
+    company_logo: ''
+    date_start: 2016-03-01
+    date_end: 2024-02-29
   - position: Samsung Advanced Institute of Technology (삼성전자 종합기술원)
     company_name: Samsung Electronics
     company_url: 'https://www.sait.samsung.co.kr/'
