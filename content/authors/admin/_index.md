@@ -41,12 +41,22 @@ interests:
   - Research on Acceleratig AI systems  
 
 education:
-  - area: Ph.D. Department of Computer Science (석박사 통합과정)
+  - area: Ph.D., Department of Computer Science (석박사 통합과정)
     institution: KAIST (Korea Advanced Institute of Science and Technology)
     date_start: 2013-03-01 
     date_end: 2020-01-29 
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Dissertation on _Efficient Filtering, Storing and Query Processing Techniques in
+RFID/USN Environments_. Supervised by [Prof Chin-Wan Chung](https://example.com). 
+    date_start: 2013-03-01
+    date_end: 2020-01-29
+    
+  - area: B.S., Division of Computer Science 
+    institution: KAIST (Korea Advanced Institute of Science and Technology)
+    date_start: 1999-03-01 
+    date_end: 2003-02-21 
+    summary: |
+      Dissertation
     date_start: 2013-03-01
     date_end: 2020-01-29
     
