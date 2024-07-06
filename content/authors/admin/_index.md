@@ -81,6 +81,12 @@ work:
     company_logo: ''
     date_start: 2016-03-01
     date_end: 2024-02-29
+  - position: Nanyang Technological University, Singapore (난양공대)
+    company_name: Nanyang Technological University
+    company_url: '[https://www.sait.samsung.co.kr/](https://www.ntu.edu.sg/)'
+    company_logo: ''
+    date_start: 2016-02-01
+    date_end: 2014-05-21
   - position: Samsung Advanced Institute of Technology (삼성전자 종합기술원)
     company_name: Samsung Electronics
     company_url: 'https://www.sait.samsung.co.kr/'
