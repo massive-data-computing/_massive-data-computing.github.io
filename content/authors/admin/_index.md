@@ -53,16 +53,14 @@ education:
     date_end: 2003-02-21
     
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Electronics and Telecommunications Research Institute (한국전자통신연구원)
+    company_name: ETRI
     company_url: ''
     company_logo: ''
     date_start: 2021-01-01
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - position:  Electronics and Telecommunications Research Institute (한국전자통신연구원)
     company_name: ETRI
