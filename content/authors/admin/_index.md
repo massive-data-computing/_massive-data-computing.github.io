@@ -59,7 +59,6 @@ work:
     company_logo: ''
     date_start: 2021-01-01
     date_end:  2024-02-29
-    summary: |2-
   - position:  Electronics and Telecommunications Research Institute (한국전자통신연구원)
     company_name: ETRI
     company_url: '[https://www.sait.samsung.co.kr/](https://www.etri.re.kr)'
