@@ -71,13 +71,7 @@ work:
     company_logo: ''
     date_start: 2011-04-01
     date_end: 2014-04-30
-- position: Institute of Information Electronics
-    company_name: Samsung Electronics
-    company_url: https://www.kaist.kr/
-    company_logo: ''
-    date_start: 2011-01-31
-    date_end: 2010-02-01
-
+    
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
