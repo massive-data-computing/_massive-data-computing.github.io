@@ -53,7 +53,7 @@ education:
     date_end: 2003-02-21
     
 work:
-  - position: Electronics and Telecommunications Research Institute (한국전자통신연구원)
+  - position: etri
     company_name: ETRI
     company_url: ''
     company_logo: ''
