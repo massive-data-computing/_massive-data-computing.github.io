@@ -53,11 +53,11 @@ education:
     date_end: 2003-02-21
     
 work:
-  - position: Electronics and Telecommunications Research Institute
+  - position: Electronics and Telecommunications Research Institute (ETRI)
     company_name: ETRI
     company_url: 'https://www.etri.re.kr'
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2016-03-01
     date_end:  2024-02-29
   - position:  Electronics and Telecommunications Research Institute (한국전자통신연구원)
     company_name: ETRI
