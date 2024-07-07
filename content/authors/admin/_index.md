@@ -53,28 +53,6 @@ education:
     date_end: 2003-02-21
     
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - position:  Electronics and Telecommunications Research Institute (한국전자통신연구원)
     company_name: ETRI
     company_url: '[https://www.sait.samsung.co.kr/](https://www.etri.re.kr)'
@@ -93,6 +71,12 @@ work:
     company_logo: ''
     date_start: 2011-04-01
     date_end: 2014-04-30
+  - position: Institute of Information Electronics, KAIST (정보전자연구소)
+    company_name: KAIST
+    company_url: 'https://www.kaist.ac.kr/'
+    company_logo: ''
+    date_start: 2011-01-31
+    date_end: 2010-02-01
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
