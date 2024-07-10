@@ -96,7 +96,13 @@ skills:
         description: ''
         percent: 40
         icon: circle-stack
-
+  - name: SW
+    items:
+      - name: DBMS
+        description: ''
+        percent: 80
+        icon: code-bracket
+        
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
