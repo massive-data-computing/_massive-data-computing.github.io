@@ -43,8 +43,8 @@ interests:
 education:
   - area: Ph.D., Department of Computer Science (석박사 통합과정)
     institution: KAIST (Korea Advanced Institute of Science and Technology)
-    date_start: 2013-03-01 
-    date_end: 2020-01-29 
+    date_start: 2003-03-01 
+    date_end: 2010-01-29 
     summary: |
       Dissertation on _Efficient Filtering, Storing and Query Processing Techniques in RFID/USN Environments_
   - area: B.S., Division of Computer Science 
@@ -82,17 +82,17 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Programming
     items:
-      - name: Python
+      - name: C/C++
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: Java
         description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL
+      - name: Python
         description: ''
         percent: 40
         icon: circle-stack
@@ -115,13 +115,13 @@ skills:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
+  - title: Outstanding Ph.D. Dissertation Award (우수논문상)
     url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
+    date: '2010-01-29'
+    awarder: Department of Computer Science, KAIST
     icon: coursera
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+      I studied  
 
 ---
 ## About Me
