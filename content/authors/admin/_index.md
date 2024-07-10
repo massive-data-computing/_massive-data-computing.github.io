@@ -119,9 +119,8 @@ awards:
     url: https://www.coursera.org/learn/neural-networks-deep-learning
     date: '2010-01-29'
     awarder: Department of Computer Science, KAIST
-    icon: coursera
+    icon: chart-bar
     summary: |
-      I studied  
 
 ---
 ## About Me
