@@ -98,11 +98,18 @@ skills:
         icon: circle-stack
   - name: SW
     items:
-      - name: DBMS
+      - name: Relational DBMS(Oracle, IBM DB2, MS SQL, MySQL, PostgresQL)
         description: ''
         percent: 80
         icon: code-bracket
-        
+      - name: Graph DBMS(Neo4J)
+        description: ''
+        percent: 100
+        icon: chart-bar
+      - name: Tableau (Visuliazation Tool for Big Data Analysis )
+        description: ''
+        percent: 40
+        icon: circle-stack
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
